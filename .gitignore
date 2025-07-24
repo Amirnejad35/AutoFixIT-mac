@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Folder attributes
+Icon?
+.Spotlight-V100
+.Trashes

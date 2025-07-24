@@ -35,3 +35,7 @@ MIT License – you are free to use, share, and improve with attribution.
 
 ## 🙋‍♂️ Contributions
 Open to PRs or forks. Created for educational and professional development purposes.
+
+## 👤 Author
+**Amir Nejad**  
+[LinkedIn](https://www.linkedin.com/in/amir-nejad98) • [GitHub](https://github.com/Amirnejad35)
